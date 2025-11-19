@@ -1,7 +1,4 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/fuckthepolice0/count.svg"/>
-  <br/>
+
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=fuckthepolice0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
